@@ -1,9 +1,13 @@
-# Rust Web 全栈开发教程【完结】（来自杨旭老师）.
+# Rust Web 全栈开发教程【完结】（非原创，代码来自杨旭老师）
 
 ## 内容说明
 This is the code of video BV1RP4y1G7KF on bilibili. 
 
 这是B站 BV1RP4y1G7KF 这个视频的代码
+
+## 不同文件夹内容说明, Description of different folder contents
+
+Stage 1 包括了原视频中 P2 - P4 部分的内容，包括基础的 TCP server 的构建和 HTTP request and response 部分的内容
 
 ## Rust 版本, Rust verion
 
@@ -15,6 +19,13 @@ rustup 1.25.1 (bb60b1e89 2022-07-12)
 info: This is the version for the rustup toolchain manager, not the rustc compiler.
 info: The currently active `rustc` version is `rustc 1.65.0 (897e37553 2022-11-02)`
 ```
+
+## 推荐在学习中使用的插件（按字母顺序排序）
+1. CodeLLDB
+2. Even Better TOML
+3. Git History
+4. GitLens
+5. rust-analyzer
 
 ## 利益相关说明
 
