@@ -1,6 +1,6 @@
 # Rust Web 全栈开发教程【完结】（来自杨旭老师）.
 
-## 说明
+## 内容说明
 This is the code of video BV1RP4y1G7KF on bilibili. 
 
 这是B站 BV1RP4y1G7KF 这个视频的代码
@@ -16,7 +16,7 @@ info: This is the version for the rustup toolchain manager, not the rustc compil
 info: The currently active `rustc` version is `rustc 1.65.0 (897e37553 2022-11-02)`
 ```
 
-## 说明
+## 利益相关说明
 
 该 Repo 旨在帮助懒得打字的朋友们快速提供一份能拿来跑的代码，不用于任何盈利目的，也不存在任何形式的捐赠等内容，仅为人肉 OCR 的一份存档
 
