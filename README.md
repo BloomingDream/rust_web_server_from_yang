@@ -11,10 +11,11 @@ Stage 1 包括了原视频中 P2 - P6 部分的内容，包括基础的 TCP serv
 
 
 Stage 1 includes the content of the P2 - P6, part of the original video, including the construction of the basic TCP server and the content of the HTTP request and response part
+
+
 ## Rust 版本, Rust verion
 
 ```shell
-
 >> rustup --version
 
 rustup 1.25.1 (bb60b1e89 2022-07-12)
@@ -22,12 +23,15 @@ info: This is the version for the rustup toolchain manager, not the rustc compil
 info: The currently active `rustc` version is `rustc 1.65.0 (897e37553 2022-11-02)`
 ```
 
+
 ## 推荐在学习中使用的插件（按字母顺序排序）
 1. CodeLLDB
 2. Even Better TOML
 3. Git History
 4. GitLens
 5. rust-analyzer
+
+
 
 ## 利益相关说明
 
