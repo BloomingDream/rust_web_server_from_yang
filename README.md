@@ -7,14 +7,19 @@ This is the code of video BV1RP4y1G7KF on bilibili.
 
 ## 不同文件夹内容说明, Content description of different folders
 
+### Stage 1
+
 Stage 1 包括了原视频中 P2 - P6 部分的内容，包括基础的 TCP server 的构建和 HTTP request and response 部分的内容，以及之后的 Router 和 Server 还有 Handler 的构建。
 
 Stage 1 includes the content of the P2 - P6, part of the original video, including the construction of the basic TCP server and the content of the HTTP request and response part, and the subsequent construction of Router and Server and handler.
 
+### Stage 2
 
 Stage 2 包括了原视频中 P7 部分的内容，主要是使用 Actic-Web 构建一个基础服务器。
 
 Stage 2 includes the content of the P7 part of the original video. The main focus is to build a base server using Actic-Web.
+
+### Stage 3
 
 Stage 3 包括了原视频中 P8-P10 部分的内容，主要是使用 Actic-Web 构建一个REST api 服务器，内容包括了健康检查，课程的添加，按教师id查询课程信息，按教师id和课程id查询信息，所有数据全部保存在内存中。
 
