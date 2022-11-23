@@ -5,7 +5,7 @@ This is the code of video BV1RP4y1G7KF on bilibili.
 
 这是B站 BV1RP4y1G7KF 这个视频的代码
 
-## 不同文件夹内容说明, Description of different folder contents
+## 不同文件夹内容说明, Content description of different folders
 
 Stage 1 包括了原视频中 P2 - P6 部分的内容，包括基础的 TCP server 的构建和 HTTP request and response 部分的内容，以及之后的 Router 和 Server 还有 Handler 的构建。
 
