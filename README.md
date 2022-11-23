@@ -20,6 +20,32 @@ Stage 3 包括了原视频中 P8-P10 部分的内容，主要是使用 Actic-Web
 
 Stage 3 includes the content of P8-P10 in the original video. It mainly uses Actic-Web to build a REST api server. The content includes health checks, adding courses, querying course information by teacher id, querying course information by teacher id and course id, all data are stored in memory.
 
+## 文件夹树，File tree
+
+```shell
+├─stage_1
+│  ├─http
+│  │  └─src
+│  ├─httpserver
+│  │  ├─data
+│  │  ├─public
+│  │  └─src
+│  ├─src
+│  ├─tcpclient
+│  │  └─src
+│  └─tcpserver
+│      └─src
+├─stage_2
+│  └─src
+│      └─bin
+├─stage_3
+│  └─src
+│      └─bin
+└─stage_4
+    └─src
+```
+
+
 ## Rust 版本, Rust verion
 
 ```shell
