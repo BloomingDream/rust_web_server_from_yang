@@ -1,7 +1,7 @@
 use chrono::NaiveDateTime;
 use dotenv::dotenv;
-use sqlx::postgres::PgPoolOptions;
 use std::env;
+use sqlx::postgres::PgPoolOptions;
 use std::io;
 
 #[derive(Debug)]

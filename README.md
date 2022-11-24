@@ -5,6 +5,10 @@ This is the code of video BV1RP4y1G7KF on bilibili.
 
 这是B站 BV1RP4y1G7KF 这个视频的代码
 
+原视频地址：[Rust Web 全栈开发教程【完结】](https://www.bilibili.com/video/BV1RP4y1G7KF/)
+
+Original video address: [Rust Web Full Stack Development Tutorial [End]](https://www.bilibili.com/video/BV1RP4y1G7KF/)
+
 ## 不同文件夹内容说明, Content description of different folders
 
 ### Stage 1
@@ -24,6 +28,20 @@ Stage 2 includes the content of the P7 part of the original video. The main focu
 Stage 3 包括了原视频中 P8-P10 部分的内容，主要是使用 Actic-Web 构建一个REST api 服务器，内容包括了健康检查，课程的添加，按教师id查询课程信息，按教师id和课程id查询信息，所有数据全部保存在内存中。
 
 Stage 3 includes the content of P8-P10 in the original video. It mainly uses Actic-Web to build a REST api server. The content includes health checks, adding courses, querying course information by teacher id, querying course information by teacher id and course id, all data are stored in memory.
+
+### Stage 4
+
+Stage 4 包括了原视频中 P11 部分的内容，主要是使用 sqlx 查询 yx 数据库中的 Course 表的数据。
+
+Stage 4 includes the content of P11 in the original video, mainly using sqlx to query the data of the Course table in the yx database.
+
+### Stage 5
+
+Stage 5 包括了原视频中 P12-P13 部分的内容，主要是使用 sqlx 查询 yx 数据库中的 Course 表的数据，同时将 Stage 3 中的数据源更换为 postgres 数据库。
+
+Stage 5 includes the content of P12-P13 in the original video. It mainly uses sqlx to query the data of the Course table in the yx database, and replaces the data source in Stage 3 with the postgres database.
+
+
 
 ## 文件夹树，File tree
 
