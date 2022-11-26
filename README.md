@@ -1,4 +1,4 @@
-# Rust Web 全栈开发教程【代码更新至原视频P16】（非原创，代码来自杨旭老师）
+# Rust Web 全栈开发教程【代码更新至原视频（已结束更新）】（非原创，代码来自杨旭老师）
 
 ## 内容说明
 This is the code of video BV1RP4y1G7KF on bilibili. 
