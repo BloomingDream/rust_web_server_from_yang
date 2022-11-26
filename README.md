@@ -41,7 +41,11 @@ Stage 5 包括了原视频中 P12-P13 部分的内容，主要是使用 sqlx 查
 
 Stage 5 includes the content of P12-P13 in the original video. It mainly uses sqlx to query the data of the Course table in the yx database, and replaces the data source in Stage 3 with the postgres database.
 
+### Stage 6
 
+Stage 6 包括了原视频中 P14-P15 部分的内容，主要内容是添加错误处理的部分。
+
+Stage 6 includes the content of P14-P15 in the original video, and the main content is to add error handling.
 
 ## 文件夹树，File tree
 
