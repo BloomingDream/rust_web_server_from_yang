@@ -1,4 +1,4 @@
-# Rust Web 全栈开发教程【代码更新至原视频P13】（非原创，代码来自杨旭老师）
+# Rust Web 全栈开发教程【代码更新至原视频P16】（非原创，代码来自杨旭老师）
 
 ## 内容说明
 This is the code of video BV1RP4y1G7KF on bilibili. 
@@ -46,6 +46,25 @@ Stage 5 includes the content of P12-P13 in the original video. It mainly uses sq
 Stage 6 包括了原视频中 P14-P15 部分的内容，主要内容是添加错误处理的部分。
 
 Stage 6 includes the content of P14-P15 in the original video, and the main content is to add error handling.
+
+### Stage 7
+
+Stage 7 包括了原视频中 P16 部分的内容，主要内容是完善已有的服务器。该部分内容较多，对应的原视频时长也较长，其中也存在 PostgreSQL DB 中的一些知识，需要特别注意。
+
+Stage 7 includes the content of P16 in the original video, the main content is to improve the existing server. This part has a lot of content, and the corresponding original video is also longer, and there is also some knowledge in the PostgreSQL DB, which requires special attention.
+
+### Stage 8
+
+Stage 8 原计划编写原视频中 P17 的内容，但是看完后发现内容只是 P16 的重复，写会 Stage 7 的情况下，完全不存在任何难度，故略去。
+
+Stage 8 originally planned to write the content of P17 in the original video, but after watching it, I found that the content is just a repetition of P16. In the case of writing Stage 7, there is no difficulty at all, so it is omitted.
+
+### Stage 9
+
+之后的内容更多的偏重于 WebAssembly，我不感兴趣，所以不写了。
+
+The content after that is more focused on WebAssembly, I am not interested, so I will not write it.
+
 
 ## 文件夹树，File tree
 

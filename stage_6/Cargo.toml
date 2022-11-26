@@ -1,5 +1,5 @@
 [package]
-name = "stage_5"
+name = "stage_6"
 version = "0.1.0"
 edition = "2021"
 default-run = "teacher-service"

@@ -7,7 +7,6 @@ use std::fmt;
 pub enum MyError {
     DBError(String),
     ActixError(String),
-    #[allow(dead_code)]
     NotFound(String),
 }
 
