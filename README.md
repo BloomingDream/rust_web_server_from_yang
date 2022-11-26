@@ -86,8 +86,20 @@ The content after that is more focused on WebAssembly, I am not interested, so I
 ├─stage_3
 │  └─src
 │      └─bin
-└─stage_4
+├─stage_4
+│  └─src
+├─stage_5
+│  └─src
+│      └─bin
+├─stage_6
+│  └─src
+│      └─bin
+└─stage_7
     └─src
+        ├─bin
+        ├─db_access
+        ├─handlers
+        └─models
 ```
 
 
