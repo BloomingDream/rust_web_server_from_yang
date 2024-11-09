@@ -79,7 +79,7 @@ impl Handler for WebServiceHandler {
                 let body = Some(serde_json::to_string(&Self::load_json()).unwrap());
                 let mut headers: HashMap<&str, &str> = HashMap::new();
                 headers.insert("Content-Type", "application/json");
-                HttpResponse::new("2oo", Some(headers), body)
+                HttpResponse::new("200", Some(headers), body)
             }
             _ => HttpResponse::new("404", None, Self::load_file("404.html")),
         }
